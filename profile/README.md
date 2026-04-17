@@ -111,6 +111,12 @@ We utilize industry-leading technologies to bring digital ecosystems to life:
   <table>
     <tr>
       <td align="center">
+        <a href="https://github.com/Misikerr">
+          <img src="https://github.com/Misikerr.png" width="100px;" alt="Misikerr"/><br/>
+          <sub><b>Misikerr</b></sub>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/Joshz-090">
           <img src="https://github.com/Joshz-090.png" width="100px;" alt="Joshz-090"/><br/>
           <sub><b>Joshz-090</b></sub>
@@ -120,12 +126,6 @@ We utilize industry-leading technologies to bring digital ecosystems to life:
         <a href="https://github.com/fe-rid">
           <img src="https://github.com/fe-rid.png" width="100px;" alt="fe-rid"/><br/>
           <sub><b>fe-rid</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Misikerr">
-          <img src="https://github.com/Misikerr.png" width="100px;" alt="Misikerr"/><br/>
-          <sub><b>Misikerr</b></sub>
         </a>
       </td>
     </tr>
